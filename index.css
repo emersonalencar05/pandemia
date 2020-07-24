@@ -1,0 +1,164 @@
+#borda{
+    background-color: #142240;
+    border-right-width: 5px;
+    border-right-style: solid;
+    border-right-color:#D9580D;
+    border-left-width: 5px;
+    border-left-style: solid;
+    border-left-color:#D9580D;
+    margin-left: 14cm;
+    margin-right: 6cm;
+    border-top-style: solid;
+    border-top-color: #D9580D;
+    border-top-width: 5px;
+    border-bottom-style: solid;
+    border-bottom-color:#D9580D ;
+    border-bottom-width: 5px;
+    }
+#borda2{
+    background-color: #142240;
+    border-right-width: 5px;
+    border-right-style: solid;
+    border-right-color:#05F240;
+    border-left-width: 5px;
+    border-left-style: solid;
+    border-left-color:#05F240;
+    margin-left: 4cm;
+    margin-right: 14cm;
+    border-top-style: solid;
+    border-top-color: #05F240;
+    border-top-width: 5px;
+    border-bottom-style: solid;
+    border-bottom-color:#05F240;
+    border-bottom-width: 5px;
+}
+#borda3{
+    background-color: #142240;
+    border-right-width: 5px;
+    border-right-style: solid;
+    border-right-color:#F2B705;
+    border-left-width: 5px;
+    border-left-style: solid;
+    border-left-color:#F2B705;
+    margin-left: 14cm;
+    margin-right: 6cm;
+    border-top-style: solid;
+    border-top-color: #F2B705;
+    border-top-width: 5px;
+    border-bottom-style: solid;
+    border-bottom-color:#F2B705;
+    border-bottom-width: 5px;
+}
+#borda4{
+    background-color: #142240;
+    border-right-width: 5px;
+    border-right-style: solid;
+    border-right-color:#F2778D;
+    border-left-width: 5px;
+    border-left-style: solid;
+    border-left-color:#F2778D;
+    margin-left: 2cm;
+    margin-right: 16cm;
+    border-top-style: solid;
+    border-top-color: #F2778D;
+    border-top-width: 5px;
+    border-bottom-style: solid;
+    border-bottom-color:#F2778D;
+    border-bottom-width: 5px;
+}
+#borda5{
+    background-color: #142240;
+    border-right-width: 5px;
+    border-right-style: solid;
+    border-right-color: #F2B705;
+    border-left-width: 5px;
+    border-left-style: solid;
+    border-left-color:#F2B705;
+    margin-left: 14cm;
+    margin-right: 3cm;
+    border-top-style: solid;
+    border-top-color: #F2B705;
+    border-top-width: 5px;
+    border-bottom-style: solid;
+    border-bottom-color:#F2B705;
+    border-bottom-width: 5px;
+}
+#borda6{
+    background-color: #142240;
+    border-right-width: 5px;
+    border-right-style: solid;
+    border-right-color: #F21D1D;
+    border-left-width: 5px;
+    border-left-style: solid;
+    border-left-color:#F21D1D;
+    margin-left: 6cm;
+    margin-right: 14cm;
+    border-top-style: solid;
+    border-top-color: #F21D1D;
+    border-top-width: 5px;
+    border-bottom-style: solid;
+    border-bottom-color:#F21D1D;
+    border-bottom-width: 5px;
+}
+.boi{
+    font-family:Times;
+    font-size: 5rem;
+    font-style: normal;
+    font-weight: 300;
+    font-variant-position: unset;
+    font-variant: small-caps;
+    font-variant-caps: all-small-caps;
+    color:white;  
+}
+#caixa1{
+    margin-left: 0cm;
+    margin-right: 0cm;
+    border-right-width: 0cm;
+    border-right-color: ;
+    border-left-color: ;
+    border-left-width: 0cm;
+}
+.caneta{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    font-variant-position: unset;
+    font-variant: small-caps;
+    font-variant-caps: all-small-caps;
+    color: #F2F2F2;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+.titulo-principal{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    font-variant-position: unset;
+    font-variant: small-caps;
+    font-variant-caps: all-small-caps;
+    color: #F2F2F2;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+.imagem-do-lado{
+    margin-left: 0cm;
+}
+#rodape{
+    width: 100%;
+    margin-bottom: 0%;
+    background-color: #F2E7DC;
+}
+#final{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    font-variant-position: unset;
+    font-variant: small-caps;
+    font-variant-caps: all-small-caps;
+    color: #000000;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
